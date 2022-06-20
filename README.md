@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reicraftscodes.
-- 🌱 I’m currently learning AWS and UI/UX design.
+- 🌱 I’m seeking a full time Software Engineer position, preferably in Spring React but I am open to any opportunities. 
 - 💞️ I’m looking to collaborate on spring boot react project.
 
 <!---
