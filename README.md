@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @reicraftscodes.
+## 👋 Hi, I’m @reicraftscodes.
+
 - 🌱 I’m seeking a full time Junior Full-Stack Software Engineer position, preferably in Java Spring React but I am open to any opportunities. 
 - ⚡ Fun fact: I love to play drums and play online games.
 - 💞️ I’m looking to collaborate with other developers.
