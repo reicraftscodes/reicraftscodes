@@ -3,6 +3,7 @@
 - ⚡ Fun fact: I love to play drums and play online games.
 - 💞️ I’m looking to collaborate with other developers.
 - ☕️ Loves a freshly brewed cup of coffee.
+- 📧 You can contact me via email: rialcantara21@gmail.com
 
 <!---
 reicraftscodes/reicraftscodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
