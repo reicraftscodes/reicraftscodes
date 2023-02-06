@@ -1,10 +1,8 @@
 ## 👋 Hi, I’m @reicraftscodes.
 
-- 🌱 I’m seeking a full time Associate/ Junior Full-Stack Software Engineer position, preferably in Java Spring React. 
+- 🌱 I’m seeking a full time Associate/ Junior Full-Stack Software Engineer position, preferably in Java Spring React to gain more experience in this field.  
 - ⚡ Fun fact: I love to play drums and play online games.
-- 💞️ I’m looking to collaborate with other developers.
 - ☕️ Loves a freshly brewed cup of coffee.
-- 📧 You can contact me via email: reicraftscodes@gmail.com
 
 <!---
 reicraftscodes/reicraftscodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
