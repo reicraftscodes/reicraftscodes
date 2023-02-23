@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @reicraftscodes.
 
-- 🌱 I’m seeking a full time Associate/ Junior Full-Stack Software Engineer position, preferably in Java Spring React to gain more experience in this field.  
+- 🌱 I’m seeking a full time Associate/ Junior Software Engineer position, preferably in Java Spring and React to gain more experience in this field.  
 - ⚡ Fun fact: I love to travel, play drums and play online games.
 - ☕️ Loves a freshly brewed cup of coffee.
 
