@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @reicraftscodes.
 
-- 🌱 I’m seeking a full time Software Engineer position, preferably in Java Spring and React to gain more experience in this field.  
+- 🌱 I’m seeking a full time Software Engineer position, preferably in Java Spring and React.  
 - ⚡ Fun fact: I love web and mobile ui/ux designing, travelling and most of all to explore different things in general.
 - ☕️ Loves a freshly brewed cup of coffee.
 
