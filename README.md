@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @reicraftscodes.
 
-- 🌱 I’m seeking a full time Software Engineer position
-- ⚡ Fun fact: I love web and mobile ui/ux designing, travelling and most of all to explore different things in general.
+- 🌱 I’m interested in learning Machine Learning and Human Centric Computing
+- ⚡ Fun fact: I love travelling and most of all to explore different things in general.
 - ☕️ Loves a freshly brewed cup of coffee.
 
 <!---
