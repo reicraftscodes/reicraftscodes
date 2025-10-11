@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @reicraftscodes.
 
-I’m currently pursuing an **MSc in Artificial Intelligence** (awaiting results) and passionate about **UX design in AI**, focusing on creating intuitive and accessible human–AI interactions.  
+I’m currently pursuing an **MSc in Artificial Intelligence** (awaiting results) and passionate about **UX design in AI**, focusing on creating intuitive and accessible human–AI interactions. I thrive in Agile team environments.
 
 ---
 
