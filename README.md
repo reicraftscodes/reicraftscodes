@@ -20,7 +20,7 @@ I’m currently pursuing an **MSc in Artificial Intelligence** (awaiting results
 # Tech Stack
 
 ### Programming Languages & Frameworks
-- **Python** for ML & A.I (https://github.com/reicraftscodes/python-machine-learning-projects)
+- [**Python** for ML & A.I](https://github.com/reicraftscodes/python-machine-learning-projects)
 - **Java**, **Spring Boot**  
 - **React.js 18**  
 
