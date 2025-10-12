@@ -13,6 +13,33 @@ I’m currently pursuing an **MSc in Artificial Intelligence** (awaiting results
   - `React.js`: Learning the basics of frontend development to build interactive and responsive user interfaces.
 - 🎯 What I plan to learn next
   - `Spring A.I`: Integrating machine learning into Java backend systems.  
-
 ---
+
 👯 I’m open to collaboration and mentorship, seeking guidance to grow both professionally and personally.
+
+# Tech Stack
+
+### Programming Languages & Frameworks
+- **Python** for ML
+- **Java**, **Spring Boot**  
+- **React.js 18**  
+
+### Methodologies & Architecture
+- Test-Driven Development (**TDD**)  
+- Behavior-Driven Development (**BDD**)  
+
+### Testing & Quality Assurance
+- Unit Testing with **JUnit5** & **Mockito**  
+- End-to-End Testing with Jest and Cypress
+
+### DevOps & CI/CD
+- **GitLab CI/CD**  
+- **Swagger** (API Documentation & Testing)  
+- Build Tools: **Gradle**, **Maven**  
+
+### Databases & Cloud Services
+- **MySQL**, **Mongdb**, **SQLite**
+
+### ML and A.I 
+- [Python ML & A.I](https://github.com/reicraftscodes/python-machine-learning-projects)
+
