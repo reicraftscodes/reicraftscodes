@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @reicraftscodes.
 
-I’m currently pursuing an **MSc in Artificial Intelligence** (awaiting results) and passionate about **UX design in AI**, focusing on creating intuitive and accessible human–AI interactions. I thrive in Agile team environments.
+I’m currently pursuing an **MSc in Artificial Intelligence** (awaiting results) and passionate about **UX design in AI**. I thrive in Agile team environments.
 
 ---
 
@@ -38,4 +38,4 @@ I’m currently pursuing an **MSc in Artificial Intelligence** (awaiting results
 - Build Tools: **Gradle**, **Maven**  
 
 ### Databases & Cloud Services
-- **MySQL**, **Mongdb**, **SQLite**
+- **MySQL**, **Mongdb**, **SQLite**, **Basic Docker**
