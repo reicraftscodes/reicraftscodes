@@ -37,5 +37,10 @@ I’m currently pursuing an **MSc in Artificial Intelligence** (awaiting results
 - **Swagger** (API Documentation & Testing)  
 - Build Tools: **Gradle**, **Maven**  
 
-### Databases & Cloud Services
-- **MySQL**, **Mongdb**, **SQLite**, **Basic Docker**
+### Databases
+- **MySQL**, Mongdb, SQLite
+
+### Big Data & Analytics
+- Apache Spark
+
+
