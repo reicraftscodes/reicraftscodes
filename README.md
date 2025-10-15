@@ -20,27 +20,11 @@ I’m currently pursuing an **MSc in Artificial Intelligence** (awaiting results
 # Tech Stack
 
 ### Programming Languages & Frameworks
-- [**Python** for ML & A.I](https://github.com/reicraftscodes/python-machine-learning-projects)
 - **Java**, **Spring Boot**  
+- [**Python** for ML & A.I](https://github.com/reicraftscodes/python-machine-learning-projects)
 - **React.js 18**  
-
-### Methodologies & Architecture
-- Test-Driven Development (**TDD**)  
-- Behavior-Driven Development (**BDD**)  
-
-### Testing & Quality Assurance
 - Unit Testing with **JUnit5** & **Mockito**  
-- End-to-End Testing with Jest and Cypress
+- End-to-End Testing with Jest
 
-### DevOps & CI/CD
-- **GitLab CI/CD**  
-- **Swagger** (API Documentation & Testing)  
-- Build Tools: **Gradle**, **Maven**  
-
-### Databases
-- **MySQL**, Mongdb, SQLite
-
-### Big Data & Analytics
-- Apache Spark
 
 
