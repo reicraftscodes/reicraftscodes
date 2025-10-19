@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @reicraftscodes.
 
-I’m currently pursuing an **MSc in Artificial Intelligence** (awaiting results) and passionate about **UX design in AI**. I thrive in Agile team environments.
+I’m currently pursuing an **MSc in Artificial Intelligence** (awaiting results). I'm looking for an entry level in A.I/ML role and I thrive in Agile team environments.
 
 ---
 
