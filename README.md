@@ -10,7 +10,7 @@ I’m currently pursuing an **MSc in Artificial Intelligence** (awaiting results
 - 🚀 I’m currently learning:
   - `Spring Boot`: Refreshing and enhancing my backend development skills.  
   - `FastAPI`: Building efficient APIs with Python.  
-  - `React.js`: Refreshing the basics of frontend development with React.js 18 to build interactive and responsive user interfaces.
+  - `React.js`: Refreshing frontend development with React.js 18 to build interactive and responsive user interfaces.
 - 🎯 What I plan to learn next
   - `Spring A.I`: Integrating machine learning into Java backend systems.  
 ---
