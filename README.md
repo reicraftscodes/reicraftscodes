@@ -4,7 +4,7 @@ I’m currently pursuing an **MSc in Artificial Intelligence** (awaiting results
 
 ---
 
-[![500-AI-Agents-Projects - UseCase](https://img.shields.io/badge/machine--learning--projects-repository-2ea44f?logo=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Frobot-emoji-2048x2044-kay057lt.png&logoColor=2ea44f)](https://github.com/reicraftscodes/python-machine-learning-projects)  [![spring-boot-projects - repository](https://img.shields.io/badge/spring--boot--project-repository-blue)](https://github.com/)
+[![500-AI-Agents-Projects - UseCase](https://img.shields.io/badge/machine--learning--projects-repository-2ea44f?logo=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Frobot-emoji-2048x2044-kay057lt.png&logoColor=2ea44f)](https://github.com/reicraftscodes/python-machine-learning-projects)  [![spring-boot-projects - repository](https://img.shields.io/badge/spring--boot--projects-repository-blue)](https://github.com/)
 
 
 
