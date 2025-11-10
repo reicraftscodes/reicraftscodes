@@ -18,8 +18,6 @@
   - My goal is to become a well-rounded professional, capable of architecting and delivering robust solutions that make a difference. I’m always looking for new challenges, especially in applied AI
 ---
 
-👯 I’m open to collaboration and mentorship, seeking guidance to grow both professionally and personally.
-
 # Tech Stack & interest
 ### Languages / Frameworks / Tools
 
@@ -28,3 +26,6 @@
 ### Databases
 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+
+---
+👯 I’m open to collaboration and mentorship, seeking guidance to grow both professionally and personally.
