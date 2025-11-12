@@ -10,7 +10,6 @@
   - `FastAPI`: Building efficient APIs with Python.  
   - `React.js`: Refreshing frontend development with React.js 18 to build interactive and responsive user interfaces.
 - 🎯 What I plan to learn next
-  - `Spring A.I`: Integrating machine learning into Java backend systems.
   - `AI & Automation Engineering`: Prompt Engineering with Multimodal LLMs, RAG, and Agentic workflows with Codex CLI & Claude Code.
 - 🌟 Career Goals
   - My goal is to become a well-rounded professional, capable of architecting and delivering robust solutions that make a difference. I’m always looking for new challenges, especially in applied AI
