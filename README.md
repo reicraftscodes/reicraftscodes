@@ -12,9 +12,9 @@
   - `FastAPI`: Building efficient Python APIs with LLM integration.  
   - `React.js`: Refreshing frontend development with React.js 18 to build interactive and responsive user interfaces.
 - 🎯 What I plan to learn next
-  - `AI & Automation Engineering`: Prompt Engineering with Multimodal LLMs, RAG, and Agentic workflows with Codex CLI & Claude Code.
+  - `AI & Automation Engineering`: Prompt Engineering with multimodal LLMs, Retrieval-Augmented Generation (RAG), and OpenAI reasoning models for planning, tool orchestration, and autonomous iteration.
 - 🌟 Career Goals
-  - My goal is to become a well-rounded professional, capable of architecting and delivering robust solutions that make a difference. I’m always looking for new challenges, especially in applied AI
+  - My goal is to become a well-rounded professional, capable of architecting and delivering robust solutions that make a difference. I’m always looking for new challenges. 
 ---
 
 ## Tech Stack & interest
