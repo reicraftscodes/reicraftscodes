@@ -2,7 +2,7 @@
 
 - Driven by a passion for technologies and I always look for new challenges
 
-[![500-AI-Agents-Projects - UseCase](https://img.shields.io/badge/ai--machine--learning--projects-repository-2ea44f?logo=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Frobot-emoji-2048x2044-kay057lt.png&logoColor=2ea44f)](https://github.com/reicraftscodes/python-machine-learning-projects)  [![spring-boot-projects - repository](https://img.shields.io/badge/spring--boot--projects-repository-blue)](https://github.com/reicraftscodes/full-stack-java-projects)
+[![500-AI-Agents-Projects - UseCase](https://img.shields.io/badge/python--ai--machine--learning--projects-repository-2ea44f?logo=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Frobot-emoji-2048x2044-kay057lt.png&logoColor=2ea44f)](https://github.com/reicraftscodes/python-machine-learning-projects)  [![spring-boot-projects - repository](https://img.shields.io/badge/spring--boot--projects-repository-blue)](https://github.com/reicraftscodes/full-stack-java-projects)
 
 <img src="https://komarev.com/ghpvc/?username=reicraftscodes&style=for-the-badge&color=ff69b4&label=Profile+Views" />
 
