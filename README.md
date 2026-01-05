@@ -14,7 +14,8 @@
 - 🎯 What I plan to learn next
   - `AI & Automation Engineering`: Prompt Engineering with multimodal LLMs, Retrieval-Augmented Generation (RAG), and OpenAI reasoning models for planning, tool orchestration, and autonomous iteration.
 
-I’m always looking for new challenges. 
+- I’m always looking for new challenges. 
+
 ---
 
 ## Tech Stack & interest
