@@ -16,7 +16,7 @@ Currently, I’m refreshing and strengthening my skills in:
 
 Next, I plan to focus on backend service and AI model deployment.
 
-**Open-Source Research** 
+**Open-Source Project** 
 
 - ViT-Based Multimodal FER Model (Facial Expression Recognition)
 
