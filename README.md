@@ -18,7 +18,7 @@ Next, I plan to focus on backend service and AI model deployment.
 
 **Open-Source Research** 
 
-– ViT-Based Multimodal FER Model (Facial Expression Recognition)
+- ViT-Based Multimodal FER Model (Facial Expression Recognition)
 
 [HuggingFace Model](https://huggingface.co/spaces/laureimeisan/multimodal-fer-space/tree/main) | [Source Code](https://github.com/reicraftscodes/group-4-dissertation/tree/feature4/vit_model)
 
