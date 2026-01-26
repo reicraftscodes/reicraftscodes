@@ -20,7 +20,7 @@ Next, I plan to focus on backend service and AI model deployment.
 – ViT-Based Multimodal FER Model (Facial Expression Recognition)
 [HuggingFace Model](https://huggingface.co/spaces/laureimeisan/multimodal-fer-space/tree/main) | [Source Code](https://github.com/reicraftscodes/group-4-dissertation/tree/feature4/vit_model)
 
-[![preview](https://res.cloudinary.com/dvwxun4vh/image/upload/v1769388710/multimodal-vit-gif_zg3xim.gif)](https://res.cloudinary.com/dvwxun4vh/image/upload/v1769388385/thumbnail_i6uacc.png)
+[![preview](https://res.cloudinary.com/dvwxun4vh/image/upload/v1769388385/thumbnail_i6uacc.png)](https://res.cloudinary.com/dvwxun4vh/image/upload/v1769388710/multimodal-vit-gif_zg3xim.gif)
 
 
 ---
