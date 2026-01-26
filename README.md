@@ -16,9 +16,9 @@ Currently, I’m refreshing and strengthening my skills in:
 
 Next, I plan to focus on backend service and AI model deployment.
 
-### Open-Source Research
+**Open-Source Research**
+- [ViT-Based Multimodal FER Model (Facial Expression Recognition)](https://huggingface.co/spaces/laureimeisan/multimodal-fer-space/tree/main)
 [![Quick Demo](https://res.cloudinary.com/dvwxun4vh/image/upload/v1769388385/thumbnail_i6uacc.png)](https://res.cloudinary.com/dvwxun4vh/video/upload/v1769388023/multimodal-vit-demo_m6kuc7.mp4)  
-[ViT-Based Multimodal FER Model (Facial Expression Recognition)](https://huggingface.co/spaces/laureimeisan/multimodal-fer-space/tree/main)
 
 ---
 
