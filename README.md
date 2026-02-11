@@ -8,11 +8,7 @@ Driven by a passion for technologies and I always look for new challenges
 
 I mainly work with the Spring Framework and Spring Boot, building backend services and REST APIs. I also use Python for machine learning and AI, including building APIs with FastAPI and integrating large language models.
 
-Currently, I’m refreshing and strengthening my skills in:
-
-- Spring Boot for backend development and clean API design
-- Python for Machine Learning and AI use cases
-- React.js (18) to improve my understanding of frontend and be able to build microfrontend 
+Currently, I’m refreshing and strengthening my skills in React.js (18) to improve my understanding of frontend and be able to build microfrontend 
 
 Next, I plan to focus on backend service and AI model deployment.
 
