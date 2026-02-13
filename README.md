@@ -12,8 +12,8 @@ I’m especially excited about integrating AI models into Spring Boot applicatio
 
 At the moment, I’m broadening my skills in full-stack development, eager to tackle real-world projects, continue growing technically, and contribute to innovative solutions.
 
----
+🎯 I am actively seeking a Java AI backend development role.
 
-👯 I am actively seeking a Java AI backend development role. Also, I’m open to collaboration and mentorship, seeking guidance to grow both professionally and personally.
+👯 I’m open to collaboration and mentorship, seeking guidance to grow both professionally and personally.
 
 <img src="https://komarev.com/ghpvc/?username=reicraftscodes&style=for-the-badge&color=5C4033&label=Profile+Views" />
