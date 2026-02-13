@@ -6,7 +6,7 @@ Driven by a passion for technologies and I always look for new challenges
 
 **About Me**
 
-I’m a passionate learner, which is just a fancy way of saying I’m still a student at heart—because I’m constantly learning! I have a practical experience in backend development, particularly with the Spring Framework and Spring Boot, gained through coursework and my final year project during my Bachelor's degree. During my Master's, I gained practical experience with Python for machine learning and AI. For my dissertation, I trained and optimised three different machine learning models (CNN, YOLO, and Vision Transformers) for Facial Expression Recognition (FER) tasks.
+I’m a passionate learner, which is just a fancy way of saying I’m still a student at heart because I’m constantly learning! I have a practical experience in backend development, particularly with the Spring Framework and Spring Boot, gained through coursework and my final year project during my Bachelor's degree. During my Master's, I gained practical experience with Python for machine learning and AI. For my dissertation, I trained and optimised three different machine learning models (CNN, YOLO, and Vision Transformers) for Facial Expression Recognition (FER) tasks.
 
 I’m especially excited about integrating AI models into Spring Boot applications. Right now, I’m diving into Spring AI and exploring how to combine machine learning models with backend services for predictive analytics, data classification, and real-time decision-making.
 
